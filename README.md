@@ -1,7 +1,6 @@
 Olá!
 
-Sou estudante de programação com foco em JavaScript e Python
-QA Tester Jr | Teste manuais
+Sou estudante de programação com foco em JavaScript e Python | QA Tester Jr | Testes manuais
 
 Contato:
 
