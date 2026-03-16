@@ -1,12 +1,11 @@
 Olá!
 
 Sou estudante de programação com foco em JavaScript e Python
-Estou em busca da minha primeira oportunidade na área de TI
+QA Tester Jr | Teste manuais
 
 Contato:
 
-E-mail: contasbtzz@gmail.com
-LinkedIn: https://www.linkedin.com/in/geovana-bertolazzi-992917355?utm_source=share_via&utm_content=profile&utm_medium=member_android
+E-mail: contasbtzz@gmail.com | LinkedIn: https://www.linkedin.com/in/geovana-bertolazzi-992917355?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 <!--
 **geovanabtzz/geovanabtzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
